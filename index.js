@@ -132,7 +132,7 @@ function start() {
         } else {
             getElementById("left_2").style.borderColor = "red"
         }
-        if (h_3 == "Ankara") {
+        if (h_3 == "Pekin") {
             result += 2;
             getElementById("left_3").style.borderColor = "gold";
         } else {
@@ -150,37 +150,37 @@ function start() {
         } else {
             getElementById("left_5").style.borderColor = "red"
         }
-        if (h_6 == "Kyiv") {
+        if (h_6 == "Moscow") {
             result += 2;
             getElementById("left_6").style.borderColor = "gold";
         } else {
             getElementById("left_6").style.borderColor = "red"
         }
-        if (h_7 == "Paris") {
+        if (h_7 == "Berlin") {
             result += 2;
             getElementById("right_1").style.borderColor = "gold";
         } else {
             getElementById("right_1").style.borderColor = "red"
         }
-        if (h_8 == "Berlin") {
+        if (h_8 == "Mexico") {
             result += 2;
             getElementById("right_2").style.borderColor = "gold";
         } else {
             getElementById("right_2").style.borderColor = "red"
         }
-        if (h_9 == "Mexico") {
+        if (h_9 == "Ottawa") {
             result += 2;
             getElementById("right_3").style.borderColor = "gold";
         } else {
             getElementById("right_3").style.borderColor = "red"
         }
-        if (h_10 == "Beijing") {
+        if (h_10 == "Paris") {
             result += 2;
             getElementById("right_4").style.borderColor = "gold";
         } else {
             getElementById("right_4").style.borderColor = "red"
         }
-        if (h_11 == "Ottawa") {
+        if (h_11 == "Kiev") {
             result += 2;
             getElementById("right_5").style.borderColor = "gold";
         } else {
